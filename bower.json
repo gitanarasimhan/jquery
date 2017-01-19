@@ -14,5 +14,14 @@
   ],
   "moduleType": "globals",
   "ignore": [
+    ".github",
+    "build",
+    "external",
+    "src",
+    "test",
+    "LICENSE.txt",
+    "GruntFile.js",
+    "README.md",
+    "package.json"
   ]
 }
